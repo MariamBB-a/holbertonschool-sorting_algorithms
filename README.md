@@ -96,13 +96,8 @@ One repository shared
 ## Files in This Project:
 1- README.md - Project documentation
 2- sort.h  - Header file with all prototypes 
-3- 0-O - contains the Big-O time complexities of the Bubble Sort algorithm 
-----------------------------------------------------------------------------------------------
-
-3- 0-O - contains the Big-O time complexities of the Bubble Sort algorithm 
-----------------------------------------------------------------------------------------------
-
-3- 0-O - contains the Big-O time complexities of the Bubble Sort algorithm 
+3- 0-O - contains the Big-O time complexities of the Bubble Sort algorithm for first file - 0-bubble_sort.c
+4- 1-O - contains the Big O time complexities of the Insertion Sort algorithm for a doubly linked for second file - 1-insertion_sort_list.c
 ----------------------------------------------------------------------------------------------
 
 
