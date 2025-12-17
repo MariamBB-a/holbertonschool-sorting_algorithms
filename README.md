@@ -2,6 +2,17 @@
 
                                                           C - Sorting algorithms & Big O Notation
 ____________________________________________________________________________________________________________________________________________________
+
+                                                                     # TABLE OF CONTENTS #
+                                                            # Time Complexity (Big-O Notation)
+                                                            # Common Types of Big-O Time Complexities
+                                                            # Project Requirements
+                                                            # GitHub Repository Rules
+                                                            # Files in This Project
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 # Time Complexity (Big-O Notation)
 
 ## What is Time Complexity?
@@ -25,7 +36,7 @@ Big-O helps us:
 
 ---
 
-##  Common Big-O Time Complexities:
+##  Common Types of Big-O Time Complexities:
 
 #1# ¢ (1) - Constant Time
 - Time does not depend on input size
@@ -54,6 +65,35 @@ Big-O helps us:
 - Very slow
 _________________________________________________________________________________________________________
 
+## Requirements:
 
+### General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All files are compiled on **Ubuntu 20.04 LTS**
+- All files must end with a **new line**
+- A `README.md` file at the root of the project is **mandatory**
+- Code must follow the **Betty style**
+- Checked using `betty-style.pl` and `betty-doc.pl`
+- **Global variables are not allowed**
+- No more than **5 functions per file**
+- The **standard library is forbidden**
+- Functions like `printf`, `puts`, etc. are not allowed
+- Provided `main.c` files are **for testing only**
+- Do **not** push them to the repository
+- We will use our **own `main.c` files** during grading
+- All function prototypes must be declared in `sort.h`
+- All header files must be **include guarded**
+- A list or array does **not** need to be sorted if its size is less than 2
 
+----------------------------------------------------------------------------------------------
+
+## GitHub Repository Rules:
+
+One repository shared 
+- Repository name: holbertonschool-sorting_algorithms
+
+----------------------------------------------------------------------------------------------
+## Files in This Project:
+1- README.md - Project documentation
+2- sort.h  - Header file with all prototypes 
 
